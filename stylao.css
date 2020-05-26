@@ -1,0 +1,91 @@
+body {
+    background-color: rgb(54, 33, 50);
+    font-family: fantasy;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.nome {
+    font-family: fantasy;
+    color: #ff8cc2;
+    font-size: 44px;
+    margin: 15px;
+}
+
+.listao {
+    margin: 15px;
+    color: #ff8cc2;
+    font-size: 22px;
+}
+
+.lista {
+    color: #ff8cc2;
+}
+
+.divisinha {
+    color: #ff8cc2;
+}
+
+.periodo {
+    color: #ffffff;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.linkpuc {
+    color: #ff8cc2;
+}
+
+.secao1 {
+    background-color: rgb(54, 33, 50);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(250, 80, 173);
+    margin-bottom: 20px;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+.secao2 {
+    background-color: rgb(54, 33, 50);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(250, 80, 173);
+    padding: 10px;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+.secao3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(71, 44, 65);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(250, 80, 173);
+    padding: 10px;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+.secao4 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(71, 44, 65);
+        border-style: solid;
+        border-width: 1px;
+        border-color: rgb(250, 80, 173);
+        padding: 10px;
+        border-style: solid;
+        border-radius: 30px;
+        font-family: fantasy;
+        color: #ff8cc2;
+
+}
+
